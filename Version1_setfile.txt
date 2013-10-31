@@ -1,0 +1,25 @@
+{
+    "debug": {
+        "trendchannel": {
+            "MaxLot": 1000000,
+            "LotSize": 50000,
+            "LotMultiplier": 2,
+            "MinTakeProfit": 30,
+            "TakeProfitMulti": 1.2,
+            "MinStopLoss": 30,
+            "StopLossMulti": 8,
+            "MinRenkoSize": 3,
+            "RenkoSizeMulti": 0.4,
+            "MaxBuyOrders": 20,
+            "MaxSellOrders": 20,
+            "MinMaxLookback": 21,
+            "PipsFromMax": 30,
+            "PipsFromMin": 30,
+            "OrderTimeSpacing": 45,
+            "ReCalcTakeProfit": 36,
+            "ReCalcRenkos": 36,
+            "OrderSpacingMultipliers": "0,3,5,6,8,9.5,11,11,12,10,7,8,8,8,8,8,8,8,8",
+            "BatchLossAmount": 15
+        }
+    }
+}
